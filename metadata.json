@@ -1,0 +1,6 @@
+{
+  "name": "Pulso",
+  "description": "Aplicativo rápido para controle de hábitos saudáveis, hidratação, alimentação e treinos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
